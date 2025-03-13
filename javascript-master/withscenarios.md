@@ -20,7 +20,7 @@ Write a function `capitalizeWords(sentence)` that takes a sentence `sentence` an
 You are developing a blog platform where users can submit articles. Write a function to automatically capitalize the titles of submitted articles for consistent formatting and readability.
 
 4:  
-**Question:**  
+**Question:** Isaiah 
 Write a function `rotateArray(arr, k)` that rotates an array `arr` by `k` positions to the right. For example, if `arr = [1, 2, 3, 4, 5]` and `k = 2`, the output should be `[4, 5, 1, 2, 3]`.
 
 **Scenario:**  
@@ -42,7 +42,7 @@ Write a function `flattenArray(arr)` that takes a nested array `arr` and returns
 You are developing a data visualization tool. Write a function to flatten a nested dataset of sales reports, making it easier to generate comprehensive charts and graphs for analysis.
 
 7:  
-**Question:**  
+**Question:**  cynthia
 Write a function `validateEmail(email)` that takes an email address `email` and returns true if it is a valid email address format, false otherwise.
 
 **Scenario:**  
@@ -70,7 +70,7 @@ Write a function `deepClone(obj)` that deep clones a given object `obj`, meaning
 You are working on a project management tool. Write a function to create a deep copy of a project task, including all subtasks and associated details, ensuring accurate task delegation and tracking.
 
 11:  
-**Question:**  
+**Question:**  tiffany
 Write a function `binarySearch(arr, target)` that implements the binary search algorithm to find the index of `target` in a sorted array `arr`. Return -1 if `target` is not found.
 
 **Scenario:**  
